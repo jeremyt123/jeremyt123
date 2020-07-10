@@ -1,6 +1,6 @@
 # HEY! 👋
 
-#### 🏫 Computer science student at the University of Guelph 
+#### 🏫 Computer science student at the University of Guelph 🍁
 #### 🖥 Currently working as a Web Developer at Blueprint Agencies
 
 #### Check out my website ---> [Here](https://jeremythorne.ca)
