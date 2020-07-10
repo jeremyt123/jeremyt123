@@ -1,8 +1,9 @@
 # HEY! 👋
 
 #### 🏫 Computer science student at the University of Guelph 
-#### 🖥 Currently Working as a Web Developer at Blueprint Agencies
+#### 🖥 Currently working as a Web Developer at Blueprint Agencies
 
+#### Check out my website ---> [Here](https://jeremythorne.ca)
 <!--
 **jeremyt123/jeremyt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
