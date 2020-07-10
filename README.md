@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+### Currently Working as a Web Developer at Blueprint Agencies 🖥
 
 <!--
 **jeremyt123/jeremyt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
