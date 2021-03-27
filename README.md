@@ -3,9 +3,6 @@
 #### 🏫 Computer science student at the University of Guelph 🍁
 
 #### Check out my website ---> [Here](https://jeremythorne.ca)
-
-##### ! Looking for Summer 2021 Internships !
-
 <!--
 **jeremyt123/jeremyt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
