@@ -12,5 +12,6 @@
 - A future that fits ([afuturethatfits.ca](https://afuturethatfits.ca/))
 
 #### Check out my website ---> [Here](https://jeremythorne.ca)
+<img align=right src='https://user-images.githubusercontent.com/22085407/120850545-95b4c700-c545-11eb-85ff-32a847679caa.gif'>
 
-![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966](https://user-images.githubusercontent.com/22085407/120850545-95b4c700-c545-11eb-85ff-32a847679caa.gif)
+
