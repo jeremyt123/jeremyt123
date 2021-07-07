@@ -2,11 +2,12 @@
 
 
 
-#### I've been programming since I was 11 and am currently pursuing my Computer Science degree at the University of Guelph 🏫🍁
+#### I'm a Computer Science student at the University of Guelph 🏫🍁
 
 #### My main area of expertise is web development but I am always learning and love to try new technologies
 
-#### Here are some of my more notable projects i've worked on
+#### Here are some of my more notable projects i've worked on/am working on
+- Daash ([daash.app](https://daash.app))
 - 6ixBuzz website & app ([6ix.buzz](https://6ix.buzz))
 - Modern sales ([modernsales.ca](https://modernsales.ca))
 - A future that fits ([afuturethatfits.ca](https://afuturethatfits.ca/))
